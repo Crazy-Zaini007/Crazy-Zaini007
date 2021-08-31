@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Crazy-Zaini007
+- 👋 Hi, I’m @Zainullah
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning CSharp
 - 💞️ I’m looking to collaborate on Projects
